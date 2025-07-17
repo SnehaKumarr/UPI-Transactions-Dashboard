@@ -68,7 +68,7 @@ This page presents a **line chart** depicting the balance trends by month for th
 
 This page contains a **Matrix visual** that provides a tabular view of transactions, showing detailed metrics such as transaction amounts, balances, and other segmented insights based on the selected filters.
 
-![Page 2 - Transactions Matrix](path/to/page2-matrix.png)
+![Page 2 - Transactions Matrix](https://github.com/SnehaKumarr/UPI-Transactions-Dashboard/blob/main/UPI%20Dashboard%20(page%202).png)
 
 
 
