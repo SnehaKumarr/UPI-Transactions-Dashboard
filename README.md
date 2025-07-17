@@ -62,7 +62,7 @@ The dataset contains information related to UPI transactions, including:
 
 This page presents a **line chart** depicting the balance trends by month for the year 2024. Multiple slicers allow dynamic filtering by parameters such as Bank Name, City, Device Type, Gender, Age Group, Merchant Name, Payment Method, Purpose, and Transaction Type.
 
-![Page 1 - Transactions Overview](path/to/page1-overview.png)
+![Page 1 - Transactions Overview](https://github.com/SnehaKumarr/UPI-Transactions-Dashboard/blob/main/UPI%20Dashboard%20(page%201).png)
 
 ### Page 2 - Transactions Matrix
 
