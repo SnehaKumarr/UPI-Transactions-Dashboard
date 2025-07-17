@@ -52,18 +52,7 @@ You can find the dataset in this repository. It can be opened with Excel or impo
   - Bookmark for checking remaining balances.
 - **Publishing:** Final report published to Power BI Service.
 
-## How to Use
 
-1. Clone or download this repository.
-2. Open the `UPI Transactions.xlsx` file for a data preview.
-3. Open the `.pbix` Power BI report file (provided) using Power BI Desktop.
-4. Refresh the data if needed or connect your own dataset with the same schema.
-5. Explore the dashboard using available filters, slicers, and bookmarks.
-
-## Requirements
-
-- Power BI Desktop (latest version recommended)
-- Microsoft Excel (optional, for viewing dataset)
 
 ## Learning Outcomes
 
