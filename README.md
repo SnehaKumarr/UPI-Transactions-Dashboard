@@ -56,6 +56,20 @@ The dataset contains information related to UPI transactions, including:
   - Bookmark for checking remaining balances.
 - **Publishing:** Final report published to Power BI Service.
 
+## Screenshots / Demo
+
+### Page 1 - Transactions Overview
+
+This page presents a **line chart** depicting the balance trends by month for the year 2024. Multiple slicers allow dynamic filtering by parameters such as Bank Name, City, Device Type, Gender, Age Group, Merchant Name, Payment Method, Purpose, and Transaction Type.
+
+![Page 1 - Transactions Overview](path/to/page1-overview.png)
+
+### Page 2 - Transactions Matrix
+
+This page contains a **Matrix visual** that provides a tabular view of transactions, showing detailed metrics such as transaction amounts, balances, and other segmented insights based on the selected filters.
+
+![Page 2 - Transactions Matrix](path/to/page2-matrix.png)
+
 
 
 ## Learning Outcomes
