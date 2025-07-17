@@ -33,6 +33,12 @@ The dataset contains information related to UPI transactions, including:
 - **Remaining Balance:** The balance remaining after the transaction.
 - Additional fields relevant to transaction profiling and demographic segmentation.
 
+  ## Tech Stack
+
+- **Power BI Desktop:** For data modeling, visualization, and dashboard creation.
+- **Microsoft Excel:** For dataset preparation and preliminary analysis.
+- **Power BI Service:** For publishing and sharing reports online.
+
 ### Usage
 
 You can find the dataset in this repository. It can be opened with Excel or imported directly into Power BI Desktop for analysis.
